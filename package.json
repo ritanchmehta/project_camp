@@ -1,0 +1,17 @@
+{
+  "name": "projectcamp",
+  "version": "1.0.0",
+  "description": "a backend project based on project management system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "projectcamp",
+    "backend",
+    "API"
+  ],
+  "author": "ritanch mehta",
+  "license": "ISC"
+}
