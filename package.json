@@ -13,5 +13,8 @@
     "API"
   ],
   "author": "ritanch mehta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
 }
