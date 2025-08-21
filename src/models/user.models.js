@@ -15,7 +15,7 @@ const userSchema = new Schema(
                 localPath: ""
             }
         },
-        userName: {
+        username: {
             type: String,
             required: true,
             unique: true,
@@ -30,7 +30,7 @@ const userSchema = new Schema(
             lowercase: true,
             trim: true,
         },
-        fullName: {
+        fullname: {
             type: String,
             trim: true
         },
